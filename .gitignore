@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# React build
+client/build
+
+# OS files
+.DS_Store
