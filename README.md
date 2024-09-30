@@ -47,7 +47,6 @@
 
 <br />
 
-
 <br />
 
 ## 😎 Introduction
@@ -69,4 +68,3 @@ The TypeScript Express Mongoose Starter is a comprehensive boilerplate for build
 - **Nginx Reverse Proxy:** Set up Nginx as a reverse proxy to enhance performance, security, and load balancing capabilities.
 - **Process Management:** Utilize PM2 or Nodemon for process management and automatic application restarts during development and production.
 - **SWC Compiler:** Utilize the SWC compiler for faster TypeScript compilation and improved performance.
-
